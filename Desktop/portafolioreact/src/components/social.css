@@ -1,0 +1,79 @@
+.social{
+    text-align: center;
+    top:0;
+    margin: 0px  15% 0px 15% ; 
+    background-color: black;
+    color: #333;
+}
+
+.social1{
+    padding-top: 7%;
+    letter-spacing: 30px;
+    font-weight:lighter;
+    text-align: center;
+    font-family: monospace;
+    font-size: 10mm;
+    margin: 0px  150px 0px 150px ;
+    background-color: black;
+    font-family: monospace;
+    top:0;
+    color:#333;
+}
+
+.contact{
+    
+    letter-spacing: 8px;
+    font-weight:lighter;
+    text-align: center;
+    font-family: monospace;
+    font-size: 5mm;
+    margin: 0px  150px 0px 150px ;
+    background-color: black;
+    font-family: monospace;
+    top:0;
+    color:#333;
+    padding-bottom: 20px ;
+    margin-bottom: 100px;
+}
+.res{
+    width:100%;
+}
+@media (max-width: 900px){
+    .social1{
+        letter-spacing: 10px;
+        font-weight:lighter;
+        text-align: center;
+        font-family: monospace;
+        font-size: 8mm;
+        margin: 0px  15% 0px 15% ;
+        background-color: black;
+        font-family: monospace;
+        top:0;
+        color:#333;
+    }
+    .contact{
+    
+        letter-spacing: 5px;
+        font-weight:lighter;
+        text-align: center;
+        font-family: monospace;
+        font-size:3mm;
+        margin: 0px  15% 0px 11% ;
+        background-color: black;
+        font-family: monospace;
+        top:0;
+        color:#333;
+        padding-bottom: 20px ;
+        margin-bottom: 100px;
+    }
+    .social1{
+        padding-top: 17%;
+        
+    }
+}
+@media (max-width: 750px){
+    .social1{
+        padding-top: 25%;
+        
+    }
+}
