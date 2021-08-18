@@ -41,10 +41,14 @@
     .navigation li a{
         font-size: 2.5mm;
         letter-spacing: 0.8px;
-        padding: 3px 3px;
+        padding: 1px 1px;
         margin: 4px;
         text-decoration: none;
         color: white;
         border-radius: 7px;
+    }
+
+    .navigation{
+        margin:0px
     }
 }
