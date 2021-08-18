@@ -1,0 +1,37 @@
+.project{
+    top:0;
+    margin: 0px 25px 0px 25px;
+    padding: 20px 10px;
+    
+    
+}
+
+.imgproject{
+    
+    height: 220px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.titleproject{
+    font-family: monospace;
+    letter-spacing: 10px;
+    justify-content: center;
+    color: #333;
+    text-align: center;
+}
+
+.project h3{
+    text-align: center;
+}
+@media (max-width: 500px){
+    .titleproject{
+        font-weight: lighter;
+        font-family: monospace;
+        letter-spacing: 5px;
+        justify-content: center;
+        color: #333;
+        text-align: center;
+    }
+    
+}

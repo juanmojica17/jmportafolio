@@ -1,0 +1,50 @@
+.navigation{
+    height: 30px;
+    padding:0 30px;
+    color: blanchedalmond;
+    justify-content: space-between;
+    
+}
+
+.navigation ul{
+    padding: 1rem;
+    list-style: none;
+}
+
+.navigation ul li{
+    display: inline-block;
+}
+.navigation li a{
+    letter-spacing: 2px;
+    padding: 5px 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    border-radius: 7px;
+}
+.navigation ul li a:hover{
+    letter-spacing: 4px;
+    background-color: #4a4a4a;
+}
+@media (max-width: 800px){
+    .navigation li a{
+        font-size: 4mm;
+        letter-spacing: 1px;
+        padding: 5px 3px;
+        margin: 5px;
+        text-decoration: none;
+        color: white;
+        border-radius: 7px;
+    }
+}
+@media (max-width: 400px){
+    .navigation li a{
+        font-size: 3mm;
+        letter-spacing: 1px;
+        padding: 3px 3px;
+        margin: 4px;
+        text-decoration: none;
+        color: white;
+        border-radius: 7px;
+    }
+}
