@@ -89,3 +89,21 @@
         color:#333;
     }
 }
+@media (max-width: 450px){
+    .social1{
+        padding-top: 40%;
+        
+    }
+    .social1{
+        letter-spacing: 8px;
+        font-weight:lighter;
+        text-align: center;
+        font-family: monospace;
+        font-size: 7mm;
+        margin: 0px  15% 0px 15% ;
+        background-color: black;
+        font-family: monospace;
+        top:0;
+        color:#333;
+    }
+}
